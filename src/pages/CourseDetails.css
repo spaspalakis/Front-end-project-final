@@ -1,0 +1,46 @@
+.btn-selections>.btn-option{
+    display: inline-block;
+}
+
+.connection > linked-link {
+    color:red;
+    text-decoration:red;
+   }
+   
+.course-img{
+    display: block;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    width: 30vw;
+}
+
+.course-title{
+    padding-top:2vw;
+    text-align: center;
+}
+
+.course-details{
+    padding-top: 2vw;
+    padding-bottom: 2vw;
+}
+
+
+/* .course-btn{
+    display:flex;
+    flex-direction:row;
+    flex-wrap:nowrap;   
+    padding-bottom: 5vw;
+} */
+
+/* .delete-btn{
+margin-left: 10px;
+} */
+
+
+.bio{
+    padding-top:2vw;
+    margin-bottom: 5vw;
+}
